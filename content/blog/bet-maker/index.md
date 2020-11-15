@@ -4,7 +4,7 @@ date: "2020-11-14"
 description: "My first post; some details of my 2021 professional/academic plan and the rationale behind it."
 ---
 
-When I was in high school I traded stocks. I would trade in between gulps of chocolate milk at the lunch table, before physics quizzes and orchestra rehearsals -- fucking everywhere. I was a fiend.
+When I was in high school I traded stocks. I would trade in between gulps of chocolate milk at the lunch table, before physics quizzes and orchestra rehearsals -- everywhere. I was a fiend.
 
 And I learned countless lessons from my time as a trader that'll stick with me for the rest of my life. Many of these lessons guided my decision to take this year off from university, and we'll go through them below:
 
@@ -53,7 +53,7 @@ After evacuating campus in March, I immediately started planning to take a gap y
 This reasoning is similar to why times of chaos tend to reveal extraordinary opportunities in the financial markets.
 
 ## When fortune is in your favor, place bets more aggressively
-In trading, the strength of a strategy changes over time. This is why traders are always staring at 30 fucking monitors: they're processing information in order to update their view on how strong their strategies are. And when they discern their strategies are in a stronger position, they deploy more capital (at least you Kelly Criterion heads do).
+In trading, the strength of a strategy changes over time. This is why traders are always staring at like *thirty fucking monitors*: they're processing information in order to update their view on how strong their strategies are. And when they discern their strategies are in a stronger position, they deploy more capital (at least you Kelly Criterion heads do).
 
 This thinking underlies one of my motivations for taking four internships in a row rather than one, two or three. When I was applying, I had spent ~10 hours a day studying algorithms for the previous 3 months. This meant that, at that moment, the probability of me passing any technical interview was near its global maximum; "fortune was in my favor". And so I applied to every interesting/difficult-to-get-into company I could think of and ended up getting offers with a +90% success rate. 
 
@@ -82,7 +82,7 @@ I was getting better at a pace that would allow me to be extremely prepared for 
 ## You made it to the end!
 Proud of you.
 
-So, I'm not sure how this site will evolve. I'll probably spruce it up cause it's bare atm. But this section will stay the same: me having streams of consciousness about random shit. Hopefully some of it will be useful or entertaining to you.
+So, I'm not sure how this site will evolve. I'll probably spruce it up cause it's bare atm. But this section will stay the same: me having streams of consciousness about random topics. Hopefully some of it will be useful or entertaining to you.
 
 Peace.
 

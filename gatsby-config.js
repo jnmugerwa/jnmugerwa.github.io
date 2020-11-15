@@ -4,7 +4,7 @@ module.exports = {
     author: {
       name: `Nathan Mugerwa`,
       summary: `I'm a 21 year old kid who studies Math and CS at Brown Univeristy and sometimes codes for Silicon Valley
-      wunderkinds. In my freetime I cook elaborate South Asian food for my friends, read, dance, and lift heavy shit up and down
+      wunderkinds. In my freetime I cook elaborate South Asian food for my friends, read, dance, and lift heavy things up and down
       while listening to drill music.`,
     },
     description: `Nathan Mugerwa's personal website.`,
