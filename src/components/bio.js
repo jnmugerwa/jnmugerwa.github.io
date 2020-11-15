@@ -2,6 +2,7 @@ import React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 import Image from "gatsby-image"
 import Paper from '@material-ui/core/Paper';
+import ProfilePic from '../../content/assets/profile-pic.jpg';
 
 const Bio = () => {
   const data = useStaticQuery(graphql`

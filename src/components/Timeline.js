@@ -20,15 +20,15 @@ function Timeline() {
         },
         'fb': {
             'title': 'Software Engineering Intern, Winter 2021',
-            'desc': 'Incoming :)'
+            'desc': 'Incoming 🧭'
         },
         'stripe': {
             'title': 'Software Engineering Intern, Summer 2021',
-            'desc': 'Incoming :)'
+            'desc': 'Incoming ⚡'
         },
         'goog': {
             'title': 'Software Engineering Intern, Fall 2021',
-            'desc': 'Incoming :)'
+            'desc': 'Incoming ⚡'
         }
     }
     var baml = <TimelineItem title={data['baml']['title']} description={data['baml']['desc']} image={bamlLogo}/>
