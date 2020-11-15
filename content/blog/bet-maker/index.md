@@ -30,18 +30,19 @@ The probability of me getting internships was unusually high because of the unhe
 
 - I would gain an incredible edge in the job market, just as the pandemic had made job-hunting significantly more competitive.
 - I would be able to pay off my student loans and build a rainy day fund, just as pandemic-induced economic uncertainty had made having a solid financial foundation paramount.
+- I may have a normal to semi-normal last year, given COVID is under control a year from now
 - I would not have to attend Zoom University Inc.
 
 #### Breaking down the right-hand-side of the equation
-The probability of me not getting an internship was very low and the value that I'd be losing was:
-- I would graduate a year early.
+The value I'd be losing by taking a year off:
+- I wouldn't graduate on-time.
 
 ###### That's literally it.
 
 I wouldn't be losing out on the college experience™, nor a high-quality education, nor extracurriculars, nor literally anything else that makes school a worthwhile investment. 
 
 #### Conclusion
-Life handed me a rare opportunity with maximal expectation; ain't a difficult decision, mayne.
+Life extended a rare opportunity with maximal expectation; ain't a difficult decision, mayne.
 
 ## Buy into blood, sell into exuberance
 After evacuating campus in March, I immediately started planning to take a gap year. This was because I immediately recognized that:
@@ -52,7 +53,7 @@ After evacuating campus in March, I immediately started planning to take a gap y
 This reasoning is similar to why times of chaos tend to reveal extraordinary opportunities in the financial markets.
 
 ## When fortune is in your favor, place bets more aggressively
-In trading, the strength of a strategy changes over time. This is why traders are always staring at 30 fucking monitors: they're processing information in order to update their view on how strong their strategies are. And when they discern their strategies are in a stronger position, they deploy more capital.
+In trading, the strength of a strategy changes over time. This is why traders are always staring at 30 fucking monitors: they're processing information in order to update their view on how strong their strategies are. And when they discern their strategies are in a stronger position, they deploy more capital (at least you Kelly Criterion mfs do).
 
 This thinking underlies one of my motivations for taking four internships in a row rather than one, two or three. When I was applying, I had spent ~10 hours a day studying algorithms for the previous 3 months. This meant that, at that moment, the probability of me passing any technical interview was near its global maximum; "fortune was in my favor". And so I applied to every interesting/difficult-to-get-into company I could think of and ended up getting offers with a +90% success rate. 
 
