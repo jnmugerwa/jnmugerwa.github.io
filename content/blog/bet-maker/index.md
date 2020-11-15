@@ -1,5 +1,5 @@
 ---
-title: 2021 Plans | Bet Maker
+title: 2021 Plans
 date: "2020-11-14"
 description: "My first post; some details of my 2021 professional/academic plan and the rationale behind it."
 ---
@@ -28,10 +28,10 @@ In my situation it was roughly this:
 #### Breaking down the left-hand-side of the equation
 The probability of me getting internships was unusually high because of the unhealthy amounts of prep I did over the summer (~10 hours every day). And the value of getting those internships was again unusually high: 
 
-- I would gain an incredible edge in the job market, just as the pandemic had made job-hunting significantly more competitive.
+- I would gain an edge in the job market, just as the pandemic had made job-hunting significantly more competitive.
 - I would be able to pay off my student loans and build a rainy day fund, just as pandemic-induced economic uncertainty had made having a solid financial foundation paramount.
-- I may have a normal to semi-normal last year, given COVID is under control a year from now
-- I would not have to attend Zoom University Inc.
+- I'd have a shot at a normal to semi-normal last year
+- I would not have to attend Zoom University
 
 #### Breaking down the right-hand-side of the equation
 The value I'd be losing by taking a year off:
@@ -42,7 +42,7 @@ The value I'd be losing by taking a year off:
 I wouldn't be losing out on the college experience™, nor a high-quality education, nor extracurriculars, nor literally anything else that makes school a worthwhile investment. 
 
 #### Conclusion
-Life extended a rare opportunity with maximal expectation; ain't a difficult decision, mayne.
+Life extended a rare opportunity with maximal expectation.
 
 ## Buy into blood, sell into exuberance
 After evacuating campus in March, I immediately started planning to take a gap year. This was because I immediately recognized that:
@@ -53,7 +53,7 @@ After evacuating campus in March, I immediately started planning to take a gap y
 This reasoning is similar to why times of chaos tend to reveal extraordinary opportunities in the financial markets.
 
 ## When fortune is in your favor, place bets more aggressively
-In trading, the strength of a strategy changes over time. This is why traders are always staring at 30 fucking monitors: they're processing information in order to update their view on how strong their strategies are. And when they discern their strategies are in a stronger position, they deploy more capital (at least you Kelly Criterion mfs do).
+In trading, the strength of a strategy changes over time. This is why traders are always staring at 30 fucking monitors: they're processing information in order to update their view on how strong their strategies are. And when they discern their strategies are in a stronger position, they deploy more capital (at least you Kelly Criterion heads do).
 
 This thinking underlies one of my motivations for taking four internships in a row rather than one, two or three. When I was applying, I had spent ~10 hours a day studying algorithms for the previous 3 months. This meant that, at that moment, the probability of me passing any technical interview was near its global maximum; "fortune was in my favor". And so I applied to every interesting/difficult-to-get-into company I could think of and ended up getting offers with a +90% success rate. 
 
@@ -72,8 +72,9 @@ But genuinely, it hurt so bad. I had sacrificed so much of my free time, mental 
 #### But I didn't give up because I knew that I was progressing at a rate that guaranteed eventual success
 I kept an Excel sheet where I tracked all of my weaknesses, how many hours I was working, how efficient those hours were, and my general interview performance. At the end of that cycle I had zero offers. But this Excel sheet showed unwavering growth:
 
-- In the beginning, I could not pass first round interviews. Towards the end, I was consistently making it to 2nd rounds and even final rounds
+- In the beginning, I could not pass first round interviews. Towards the end, I was consistently making it to 2nd rounds and even final rounds.
 - The number of unique, high-relevance problems I had done was growing across all areas (i.e. Tree problems, graph problems, binary search problems, ...). My weaknesses were getting smaller every day.
+- My skillset was growing every week through the independent projects and courses I was completing.
 
 I was getting better at a pace that would allow me to be extremely prepared for the next cycle, should I keep preparing; and I did.
 
