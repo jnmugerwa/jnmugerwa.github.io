@@ -1,14 +1,16 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Nathan Mugerwa`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Nathan Mugerwa`,
+      summary: `I'm a 21 year old kid who studies Math and CS at Brown Univeristy and sometimes codes for Silicon Valley
+      wunderkinds. In my freetime I cook elaborate South Asian food for my friends, read, dance, and lift heavy shit up and down
+      while listening to drill music.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Nathan Mugerwa's personal website.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: ``,
     },
   },
   plugins: [
@@ -70,6 +72,7 @@ module.exports = {
       },
     },
     `gatsby-plugin-react-helmet`,
+    `gatsby-plugin-sass`,
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,

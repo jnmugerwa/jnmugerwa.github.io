@@ -1,14 +1,20 @@
+/**
+ * Bio component that queries for data
+ * with Gatsby's useStaticQuery component
+ *
+ * See: https://www.gatsbyjs.com/docs/use-static-query/
+ */
+
 import React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 import Image from "gatsby-image"
-import Paper from '@material-ui/core/Paper';
 
-const Bio = () => {
+const BlogBio = () => {
   const data = useStaticQuery(graphql`
-    query BioQuery {
+    query {
       avatar: file(absolutePath: { regex: "/profile-pic.jpg/" }) {
         childImageSharp {
-          fixed(quality: 95) {
+          fixed(height: 50, width: 50, quality: 95) {
             ...GatsbyImageSharpFixed
           }
         }
@@ -45,12 +51,14 @@ const Bio = () => {
         />
       )}
       {author?.name && (
-        <Paper elevation="5" style={{padding:"10px", height:"fit-content", marginRight:"18px"}}>
-          <p> What's good? My name's {author.name} and {author?.summary || null} </p>
-        </Paper> 
+        <p>
+         <strong>{author.name}</strong> | Math/CS @Brown University 
+         | SWE Intern @Stripe, Google, FB | All opinions are my own and not attached to
+         any school or company I'm associated with :)
+        </p>
       )}
     </div>
   )
 }
 
-export default Bio
+export default BlogBio
