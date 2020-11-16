@@ -52,8 +52,7 @@ const BlogBio = () => {
       )}
       {author?.name && (
         <p>
-         <strong>{author.name}</strong> | Math/CS @Brown University 
-         | SWE Intern @Stripe, Google, FB | All opinions are my own and not attached to
+         <strong>{author.name}</strong> | Student, fledgling engineer/researcher, curious human | All opinions are my own and not attached to
          any school or company I'm associated with :)
         </p>
       )}
