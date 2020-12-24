@@ -6,7 +6,7 @@ import LibraryBooksIcon from '@material-ui/icons/LibraryBooks';
 import GitHubIcon from '@material-ui/icons/GitHub';
 import SEO from '../components/SEO';
 
-var resumeURL = 'https://drive.google.com/file/d/1tLvocurLlngwm6fyUViYnhVo_WwSFXEn/view?usp=sharing';
+var resumeURL = 'https://drive.google.com/file/d/1o0bEEkSrA3o8nSLcD2blnl1iKMse_Cpn/view?usp=sharing';
 var githubURL = 'https://github.com/jnmugerwa'
 function WorkPage() {
     return (
