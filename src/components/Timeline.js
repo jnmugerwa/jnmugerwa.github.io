@@ -16,11 +16,11 @@ function Timeline() {
         },
         'lmco': {
             'title': 'Software Engineering Intern, Fall 2020',
-            'desc': 'Building web applications using React/Node/Express/Material-UI and APIs in .NET.',
+            'desc': 'Built web applications using React/Node/Express/Material-UI and APIs in .NET.',
         },
         'fb': {
             'title': 'Software Engineering Intern, Winter 2021',
-            'desc': 'Incoming 🧭'
+            'desc': 'https://prestodb.io/'
         },
         'stripe': {
             'title': 'Software Engineering Intern, Summer 2021',
